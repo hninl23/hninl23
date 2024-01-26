@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @hninl23. Hnin also means 'snow' in Burmese ❄️
+# 👋 Hi, I’m @hninl23. Hnin also means 'snow' in Burmese ❄️
 
-- 🌱 I’m currently familiaring myself with Python and JavaScript.
+- 💻 I am currently a third year Computer Science student and an aspiring Software Engineer.
+- 🗽 I go to Hunter College based in NYC
+- 🌱 I’m currently learning Python and experimenting with REACT to learn full-stack development.
+- 🧶 I really love crocheting (especially small plush!)
+
+
+
 
 
 <!---
